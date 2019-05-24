@@ -36,6 +36,8 @@ The curriculum for this certification consists of the HTML, CSS, CSS Flexbox, CS
 
 4. [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
+5. [HTML: Semantic and Non Semantic Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
 ### Mobile Applications used for HTML/CSS
 1. [Enki](https://www.enki.com/)
 2. [Mimo](https://getmimo.com/)
