@@ -52,7 +52,9 @@ The curriculum for this certification consists of the JavaScript, ES6, Regular E
 
 3. [JavaScript 30](https://javascript30.com/) challenge by Web Bos.
 
-4. [The Web Developer BootCamp](https://www.udemy.com/the-web-developer-bootcamp/) course by  Colt Steele (PAID)
+4. [The Web Developer BootCamp](https://www.udemy.com/the-web-developer-bootcamp/) course by  Colt Steele ($$$)
+
+5. [Regex Cheat Sheet](https://dev.to/emmawedekind/regex-cheat-sheet-2j2a) by Emma Wedekind on Dev.to
 
 ### Mobile Applications used for JS
 1. [Enki](https://www.enki.com/)
