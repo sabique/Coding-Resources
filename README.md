@@ -36,7 +36,7 @@ The curriculum for this certification consists of the HTML, CSS, CSS Flexbox, CS
 
 4. [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-5. [HTML: Semantic and Non Semantic Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+5. [HTML: Semantic and Non Semantic Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) by MDN
 
 ### Mobile Applications used for HTML/CSS
 1. [Enki](https://www.enki.com/)
@@ -44,24 +44,22 @@ The curriculum for this certification consists of the HTML, CSS, CSS Flexbox, CS
 
 ## JavaScript Algorithms And Data Structures Certification
 
-The curriculum for this certification consists of the JavaScript, ES6, Regular Expressions, Basic Data Structure & Algorithms.
+The curriculum for this certification consists of the JavaScript, ES6, Regular Expressions, Basic Data Structure & Algorithms. The Free Code Camp curriculum for JavaScript well covers all the concepts.
 
-1. [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
+1. [JavaScript 30](https://javascript30.com/) challenges by Web Bos.
 
-2. [JavaScript Grammar](http://www.javascriptgrammar.com/?v=bio) book by JavaScript Teacher
+2. [Regex Cheat Sheet](https://dev.to/emmawedekind/regex-cheat-sheet-2j2a) by Emma Wedekind on Dev.to
 
-3. [JavaScript 30](https://javascript30.com/) challenge by Web Bos.
-
-4. [The Web Developer BootCamp](https://www.udemy.com/the-web-developer-bootcamp/) course by  Colt Steele ($$$)
-
-5. [Regex Cheat Sheet](https://dev.to/emmawedekind/regex-cheat-sheet-2j2a) by Emma Wedekind on Dev.to
 
 ### Mobile Applications used for JS
-1. [Enki](https://www.enki.com/)
-2. [SoloLearn](https://www.sololearn.com/)
+1. [SoloLearn](https://www.sololearn.com/)
 
 ## Front End Libraries Certification
-Not yet started. (Open for contribution)
+The curriculum for this certification consists of the Bootstrap, jQuery, Saas, React and Redux.
+
+1. [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+
+1. [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) by Kent C. Dodds.
 
 ## Data Visualization Certification
 Not yet started. (Open for contribution)
